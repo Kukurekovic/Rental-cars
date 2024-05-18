@@ -33,7 +33,7 @@ function CarCard(props: any) {
             alt={car.name}
             width={220}
             height={200}
-            className="w-[250px] h-[150px] 
+            className="w-[335px] h-[200px] 
         mb-3 object-contain"
           />
         </div>

@@ -41,7 +41,7 @@ function CarsFiltersOption({ carsList, setBrand, orderCarList }: any) {
           onChange={(e) => setBrand(e.target.value)}
         >
           <option disabled selected>
-            Manufacturer
+            Brand
           </option>
           {brandList &&
             brandList.map((brand: string, index: number) => (
