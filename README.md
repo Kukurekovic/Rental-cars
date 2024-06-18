@@ -5,7 +5,7 @@
 
 https://rental-cars-iota.vercel.app/
 
-![2 Car Rental App](https://github.com/Kukurekovic/Rental-cars/assets/113231854/a22f88b4-af73-4502-9a95-4353b323c251)
+![2 Car Rental App sm](https://github.com/Kukurekovic/Rental-cars/assets/113231854/8b1ca171-c10a-4f5e-baa1-1cc715cafae3)
 
 
 Our application is designed to make renting a car a breeze for you! Here's how it works:
