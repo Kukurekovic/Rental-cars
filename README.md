@@ -1,7 +1,6 @@
 
-# Project Title
+# Car Rental App
 
-Car Rental App
 
 ![2 Car Rental App](https://github.com/Kukurekovic/Rental-cars/assets/113231854/a22f88b4-af73-4502-9a95-4353b323c251)
 
