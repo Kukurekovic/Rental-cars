@@ -1,6 +1,6 @@
 
-# Car Rental App
-The Car Rental App makes renting a car easy and enjoyable!
+# DriveNow App
+The DriveNow App makes renting a car easy and enjoyable!
 
 ## Demo
 
@@ -11,7 +11,7 @@ A live version of this project can be found at https://rental-cars-iota.vercel.a
 
 ## Features
 
-Car Rental App is designed to make renting a car a breeze for you! Here's how it works:
+DriveNow App is designed to make renting a car a breeze for you! Here's how it works:
 - Easy Registration: Start by signing up – a quick and necessary step to get you on the road.
 - Browse Available Cars: Check out our wide selection of cars, complete with detailed information on each one.
 - Sort and Filter: Find the perfect car by sorting the options by price or brand.
