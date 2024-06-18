@@ -19,7 +19,16 @@ Car Rental App is designed to make renting a car a breeze for you! Here's how it
 - Flexible Car Data: With HyGraph CMS, we keep our car data fresh and up-to-date, ensuring you always have the best options to choose from.
 We’re here to help you find the perfect ride for your journey!
 
-Car Rental App is created using React, NextJs, Tailwind CSS, GraphQL, HyGraph, Typescript and Clerk.
+## Tech Stack
+
+This project was built with:
+- React
+- Typescript
+- NextJs
+- Tailwind CSS
+- GraphQL
+- HyGraph
+- Clerk
 
 
 
