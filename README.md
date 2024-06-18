@@ -4,7 +4,7 @@ The Car Rental App makes renting a car easy and enjoyable!
 
 ## Demo
 
-https://rental-cars-iota.vercel.app/
+A live version of this project can be found at https://rental-cars-iota.vercel.app/
 
 ## Preview
 ![2 Car Rental App sm](https://github.com/Kukurekovic/Rental-cars/assets/113231854/8b1ca171-c10a-4f5e-baa1-1cc715cafae3)
