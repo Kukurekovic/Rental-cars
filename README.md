@@ -1,5 +1,6 @@
 
 # Car Rental App
+The Car Rental App makes renting a car easy and enjoyable!
 
 ## Demo
 
