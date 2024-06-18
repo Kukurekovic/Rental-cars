@@ -1,6 +1,9 @@
 
 # Car Rental App
 
+## Demo
+
+https://rental-cars-iota.vercel.app/
 
 ![2 Car Rental App](https://github.com/Kukurekovic/Rental-cars/assets/113231854/a22f88b4-af73-4502-9a95-4353b323c251)
 
@@ -15,6 +18,4 @@ The application allows users to rent a car, as follows:
 
 
 
-## Demo
 
-https://rental-cars-iota.vercel.app/
